@@ -1,2 +1,1 @@
-# PrepCourse-Henrry
-Este es un repositorio del M2 del prepcourse de Henrry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde gifhub a la computadora
